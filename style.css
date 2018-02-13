@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: normal;
+}
+
+select {
+    margin-bottom: 10px;
+}
+
+body {
+    background-color: lightblue;
+    font-family: Cooper;
+}
